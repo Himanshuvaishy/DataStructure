@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "BasicCode",
+            "request": "launch",
+            "mainClass": "BasicCode",
+            "projectName": "JavaDSA_5682da30"
+        },
+        {
+            "type": "java",
+            "name": "javaBasic",
+            "request": "launch",
+            "mainClass": "javaBasic",
+            "projectName": "JavaDSA_5682da30"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
